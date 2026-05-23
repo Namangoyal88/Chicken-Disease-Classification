@@ -1,0 +1,16 @@
+ipykernel
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+dvc
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+scipy
+Flask
+Flask-CORS
+-e .
